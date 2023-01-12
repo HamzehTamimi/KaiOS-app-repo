@@ -1,0 +1,22 @@
+{
+	"name": "Outlook",
+	"description": "Free personal email and calendar from Microsoft.",
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1673520795&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3d505a99ab-c331-05a4-b96f-19cb04c0c046&id=292841&aadredir=1&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015",
+	"developer": {
+		"name": "Microsoft Corporation",
+		"url": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1673520795&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3d505a99ab-c331-05a4-b96f-19cb04c0c046&id=292841&aadredir=1&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015"
+	},
+	"locales": {
+		"en-US": {
+			"name": "Outlook"
+		}
+	},
+	"default_locale": "en-US",
+	"display": "browser",
+	"cursor": true,
+	"icons": {
+		"128": "https://raw.githubusercontent.com/HamzehTamimi/Kaios-app-repo/main/Outlook/icon.png"
+	}
+}
