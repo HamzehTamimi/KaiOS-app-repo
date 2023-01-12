@@ -1,0 +1,22 @@
+{
+	"name": "Instagram",
+	"description": "A simple, fun & creative way to capture, edit & share photos, videos & messages with friends & family.",
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://www.instagram.com/",
+	"developer": {
+		"name": "Instagram",
+		"url": "https://www.instagram.com/"
+	},
+	"locales": {
+		"en-US": {
+			"name": "Instagram"
+		}
+	},
+	"default_locale": "en-US",
+	"display": "browser",
+	"cursor": true,
+	"icons": {
+		"128": "https://raw.githubusercontent.com/HamzehTamimi/Kaios-app-repo/main/Instagram/icon.png"
+	}
+}
