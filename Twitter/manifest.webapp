@@ -1,0 +1,26 @@
+{
+	"name": "Twitter",
+	"description": "Expand your social network and stay updated on what’s trending now. Retweet, chime in on a thread, go viral, or just scroll through the Twitter timeline to stay on top of what’s happening, whether it’s social media news or news from around the world.",
+	"type": "certified",
+	"fullscreen": true,
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "",
+	"developer": {
+		"name": "Twitter, Inc.",
+		"url": "https://twitter.com/"
+	},
+	"default_locale": "en-US",
+	"display": "News",
+	"cursor": true,
+	"locales": {
+		"en-US": {
+			"name": "Twitter",
+			"subtitle": "Twitter is your go-to social media app and the new media source for what's going on around the globe.",
+			"description": "Expand your social network and stay updated on what’s trending now. Retweet, chime in on a thread, go viral, or just scroll through the Twitter timeline to stay on top of what’s happening, whether it’s social media news or news from around the world.",
+		}
+	},
+	"icons": {
+		"144": "https://raw.githubusercontent.com/HamzehTamimi/Kaios-apps/main/Twitter/icon.png"
+	}
+}
