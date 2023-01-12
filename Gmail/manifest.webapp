@@ -3,7 +3,7 @@
 	"description": "Private and secure email at no cost",
 	"ime_default_softkey_bar": true,
 	"version": "1.0",
-	"start_url": "https://mail.google.com/",
+	"start_url": "https://twitter.com/",
 	"developer": {
 		"name": "Google LLC",
 		"url": "https://mail.google.com/"
@@ -17,6 +17,6 @@
 	"display": "browser",
 	"cursor": true,
 	"icons": {
-		"144": "https://raw.githubusercontent.com/HamzehTamimi/Kaios-app-repo/main/Gmail/icon.png"
+		"128": "https://raw.githubusercontent.com/HamzehTamimi/Kaios-app-repo/main/Gmail/icon.png"
 	}
 }
