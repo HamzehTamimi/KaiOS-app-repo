@@ -1,0 +1,22 @@
+{
+	"name": "Google News",
+	"description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://news.google.com/",
+	"developer": {
+		"name": "Google LLC",
+		"url": "https://news.google.com/"
+	},
+	"locales": {
+		"en-US": {
+			"name": "Google News"
+		}
+	},
+	"default_locale": "en-US",
+	"display": "browser",
+	"cursor": true,
+	"icons": {
+		"128": "https://raw.githubusercontent.com/HamzehTamimi/Kaios-app-repo/main/Google_News/icon.png"
+	}
+}
